@@ -1,2 +1,3 @@
-print("Im the Master")
-print("Im the test file")
+x = 2
+print(x)
+
